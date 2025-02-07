@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Untitled.design.png](./Untitled.design.png)
+<img src="./Untitled.design.png" width="500" alt="Untitled design">
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ahmedbernawi.github.io](https://ahmedbernawi.github.io/Jessica-profile-card/)
 
 ## My process
 
