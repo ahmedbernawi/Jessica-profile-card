@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [ahmedbernawi]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/frontend-mentor---social-links-profile-solution-K39hmT5KPI))
 - Live Site URL: [ahmedbernawi.github.io](https://ahmedbernawi.github.io/Jessica-profile-card/)
  <img src="./Snapshot.png" width="600" alt="Untitled design">
 
